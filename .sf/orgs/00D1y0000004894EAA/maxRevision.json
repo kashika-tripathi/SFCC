@@ -1,0 +1,1247 @@
+{
+    "serverMaxRevisionCounter": 367,
+    "sourceMembers": {
+        "ListView__CommerceDiagnosticCustomObject__c.CommerceDiagnosticEventFields": {
+            "serverRevisionCounter": 351,
+            "lastRetrievedFromServer": 351,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.B2B_Edition__c": {
+            "serverRevisionCounter": 275,
+            "lastRetrievedFromServer": 275,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.B2B_Version__c": {
+            "serverRevisionCounter": 276,
+            "lastRetrievedFromServer": 276,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Browser_Device_Type__c": {
+            "serverRevisionCounter": 277,
+            "lastRetrievedFromServer": 277,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Context_Id_2__c": {
+            "serverRevisionCounter": 278,
+            "lastRetrievedFromServer": 278,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Context_Id__c": {
+            "serverRevisionCounter": 279,
+            "lastRetrievedFromServer": 279,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Context_Map__c": {
+            "serverRevisionCounter": 280,
+            "lastRetrievedFromServer": 280,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Correlation_Id__c": {
+            "serverRevisionCounter": 281,
+            "lastRetrievedFromServer": 281,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Count__c": {
+            "serverRevisionCounter": 282,
+            "lastRetrievedFromServer": 282,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Effective_Account_Id__c": {
+            "serverRevisionCounter": 283,
+            "lastRetrievedFromServer": 283,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Error_Code__c": {
+            "serverRevisionCounter": 284,
+            "lastRetrievedFromServer": 284,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Error_Message__c": {
+            "serverRevisionCounter": 285,
+            "lastRetrievedFromServer": 285,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Event_Created_By__c": {
+            "serverRevisionCounter": 286,
+            "lastRetrievedFromServer": 286,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Event_Created_Date__c": {
+            "serverRevisionCounter": 287,
+            "lastRetrievedFromServer": 287,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Is_Retry__c": {
+            "serverRevisionCounter": 288,
+            "lastRetrievedFromServer": 288,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.OS_Version__c": {
+            "serverRevisionCounter": 289,
+            "lastRetrievedFromServer": 289,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Operation_Stage__c": {
+            "serverRevisionCounter": 290,
+            "lastRetrievedFromServer": 290,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Operation_State__c": {
+            "serverRevisionCounter": 291,
+            "lastRetrievedFromServer": 291,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Operation_Status__c": {
+            "serverRevisionCounter": 292,
+            "lastRetrievedFromServer": 292,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Operation_Time__c": {
+            "serverRevisionCounter": 293,
+            "lastRetrievedFromServer": 293,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Operation__c": {
+            "serverRevisionCounter": 294,
+            "lastRetrievedFromServer": 294,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.Service_Name__c": {
+            "serverRevisionCounter": 295,
+            "lastRetrievedFromServer": 295,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.User__c": {
+            "serverRevisionCounter": 296,
+            "lastRetrievedFromServer": 296,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.WebStore_Id__c": {
+            "serverRevisionCounter": 297,
+            "lastRetrievedFromServer": 297,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__CommerceDiagnosticCustomObject__c.WebStore_Type__c": {
+            "serverRevisionCounter": 298,
+            "lastRetrievedFromServer": 298,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "EmailTemplate__unfiled$public/sfdc_Checkout_Order_Summary_Email_Template": {
+            "serverRevisionCounter": 353,
+            "lastRetrievedFromServer": 353,
+            "memberType": "EmailTemplate",
+            "isNameObsolete": false
+        },
+        "Profile__kashikaStore Profile": {
+            "serverRevisionCounter": 108,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Buyer_User_Profile_From_QuickStart": {
+            "serverRevisionCounter": 365,
+            "lastRetrievedFromServer": 365,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Admin": {
+            "serverRevisionCounter": 364,
+            "lastRetrievedFromServer": 364,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Layout__CommerceDiagnosticCustomObject__c-Commerce Diagnostic Custom Object Layout": {
+            "serverRevisionCounter": 352,
+            "lastRetrievedFromServer": 352,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "CustomObject__CommerceDiagnosticCustomObject__c": {
+            "serverRevisionCounter": 350,
+            "lastRetrievedFromServer": 350,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "ApexClass__SiteLoginController": {
+            "serverRevisionCounter": 15,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__SiteLoginControllerTest": {
+            "serverRevisionCounter": 17,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__SiteRegisterController": {
+            "serverRevisionCounter": 19,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__SiteRegisterControllerTest": {
+            "serverRevisionCounter": 21,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__ChangePasswordController": {
+            "serverRevisionCounter": 23,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__ChangePasswordControllerTest": {
+            "serverRevisionCounter": 25,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__ForgotPasswordController": {
+            "serverRevisionCounter": 27,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__ForgotPasswordControllerTest": {
+            "serverRevisionCounter": 29,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__MyProfilePageController": {
+            "serverRevisionCounter": 31,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__MyProfilePageControllerTest": {
+            "serverRevisionCounter": 33,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__CommunitiesLoginController": {
+            "serverRevisionCounter": 67,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__CommunitiesLoginControllerTest": {
+            "serverRevisionCounter": 69,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__CommunitiesLandingController": {
+            "serverRevisionCounter": 71,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__CommunitiesLandingControllerTest": {
+            "serverRevisionCounter": 73,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__CommunitiesSelfRegController": {
+            "serverRevisionCounter": 75,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__CommunitiesSelfRegControllerTest": {
+            "serverRevisionCounter": 77,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__CommunitiesSelfRegConfirmController": {
+            "serverRevisionCounter": 79,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__CommunitiesSelfRegConfirmControllerTest": {
+            "serverRevisionCounter": 81,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__MicrobatchSelfRegController": {
+            "serverRevisionCounter": 83,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__MicrobatchSelfRegControllerTest": {
+            "serverRevisionCounter": 85,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BAuthorizeTokenizedPayment": {
+            "serverRevisionCounter": 299,
+            "lastRetrievedFromServer": 299,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BAuthorizeTokenizedPaymentTest": {
+            "serverRevisionCounter": 300,
+            "lastRetrievedFromServer": 300,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BCartToOrderDraft": {
+            "serverRevisionCounter": 301,
+            "lastRetrievedFromServer": 301,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BCheckInventorySample": {
+            "serverRevisionCounter": 302,
+            "lastRetrievedFromServer": 302,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BCheckInventorySampleTest": {
+            "serverRevisionCounter": 303,
+            "lastRetrievedFromServer": 303,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BDeliverySample": {
+            "serverRevisionCounter": 304,
+            "lastRetrievedFromServer": 304,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BDeliverySampleTest": {
+            "serverRevisionCounter": 305,
+            "lastRetrievedFromServer": 305,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BGetInfo": {
+            "serverRevisionCounter": 306,
+            "lastRetrievedFromServer": 306,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BPaymentController": {
+            "serverRevisionCounter": 307,
+            "lastRetrievedFromServer": 307,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BPaymentControllerTest": {
+            "serverRevisionCounter": 308,
+            "lastRetrievedFromServer": 308,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BPricingSample": {
+            "serverRevisionCounter": 309,
+            "lastRetrievedFromServer": 309,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BPricingSampleTest": {
+            "serverRevisionCounter": 310,
+            "lastRetrievedFromServer": 310,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BSyncCheckInventory": {
+            "serverRevisionCounter": 311,
+            "lastRetrievedFromServer": 311,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BSyncCheckInventoryTest": {
+            "serverRevisionCounter": 312,
+            "lastRetrievedFromServer": 312,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BSyncDelivery": {
+            "serverRevisionCounter": 313,
+            "lastRetrievedFromServer": 313,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BSyncDeliveryTest": {
+            "serverRevisionCounter": 314,
+            "lastRetrievedFromServer": 314,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BSyncPricing": {
+            "serverRevisionCounter": 315,
+            "lastRetrievedFromServer": 315,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BSyncPricingTest": {
+            "serverRevisionCounter": 316,
+            "lastRetrievedFromServer": 316,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BSyncTax": {
+            "serverRevisionCounter": 317,
+            "lastRetrievedFromServer": 317,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BSyncTaxTest": {
+            "serverRevisionCounter": 318,
+            "lastRetrievedFromServer": 318,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BTaxSample": {
+            "serverRevisionCounter": 319,
+            "lastRetrievedFromServer": 319,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BTaxSampleTest": {
+            "serverRevisionCounter": 320,
+            "lastRetrievedFromServer": 320,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__B2BUtils": {
+            "serverRevisionCounter": 321,
+            "lastRetrievedFromServer": 321,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__QuickStartIntegrationTest": {
+            "serverRevisionCounter": 322,
+            "lastRetrievedFromServer": 322,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__SalesforceAdapter": {
+            "serverRevisionCounter": 323,
+            "lastRetrievedFromServer": 323,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__SalesforceValidationException": {
+            "serverRevisionCounter": 324,
+            "lastRetrievedFromServer": 324,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "CustomTab__CommerceDiagnosticCustomObject__c": {
+            "serverRevisionCounter": 354,
+            "lastRetrievedFromServer": 354,
+            "memberType": "CustomTab",
+            "isNameObsolete": false
+        },
+        "ApexPage__SiteRegister": {
+            "serverRevisionCounter": 43,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__ChangePassword": {
+            "serverRevisionCounter": 44,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__ForgotPassword": {
+            "serverRevisionCounter": 45,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__SiteLogin": {
+            "serverRevisionCounter": 46,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__ForgotPasswordConfirm": {
+            "serverRevisionCounter": 47,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__SiteRegisterConfirm": {
+            "serverRevisionCounter": 48,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__MyProfilePage": {
+            "serverRevisionCounter": 49,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__StdExceptionTemplate": {
+            "serverRevisionCounter": 50,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__SiteTemplate": {
+            "serverRevisionCounter": 51,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__FileNotFound": {
+            "serverRevisionCounter": 52,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__BandwidthExceeded": {
+            "serverRevisionCounter": 53,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__Exception": {
+            "serverRevisionCounter": 54,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__InMaintenance": {
+            "serverRevisionCounter": 55,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__Unauthorized": {
+            "serverRevisionCounter": 56,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__UnderConstruction": {
+            "serverRevisionCounter": 57,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__IdeasHome": {
+            "serverRevisionCounter": 58,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__AnswersHome": {
+            "serverRevisionCounter": 59,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__CommunitiesTemplate": {
+            "serverRevisionCounter": 86,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__CommunitiesLogin": {
+            "serverRevisionCounter": 87,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__CommunitiesLanding": {
+            "serverRevisionCounter": 88,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__CommunitiesSelfReg": {
+            "serverRevisionCounter": 89,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__CommunitiesSelfRegConfirm": {
+            "serverRevisionCounter": 90,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ApexPage__MicrobatchSelfReg": {
+            "serverRevisionCounter": 91,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "NetworkBranding__cbkashikaStore": {
+            "serverRevisionCounter": 111,
+            "lastRetrievedFromServer": null,
+            "memberType": "NetworkBranding",
+            "isNameObsolete": false
+        },
+        "StaticResource__SiteSamples": {
+            "serverRevisionCounter": 34,
+            "lastRetrievedFromServer": null,
+            "memberType": "StaticResource",
+            "isNameObsolete": false
+        },
+        "StaticResource__GetDeliveryRatesResource": {
+            "serverRevisionCounter": 325,
+            "lastRetrievedFromServer": 325,
+            "memberType": "StaticResource",
+            "isNameObsolete": false
+        },
+        "StaticResource__GetInventoryResource": {
+            "serverRevisionCounter": 326,
+            "lastRetrievedFromServer": 326,
+            "memberType": "StaticResource",
+            "isNameObsolete": false
+        },
+        "StaticResource__GetSalesPricesResource": {
+            "serverRevisionCounter": 327,
+            "lastRetrievedFromServer": 327,
+            "memberType": "StaticResource",
+            "isNameObsolete": false
+        },
+        "StaticResource__GetTaxesResource": {
+            "serverRevisionCounter": 328,
+            "lastRetrievedFromServer": 328,
+            "memberType": "StaticResource",
+            "isNameObsolete": false
+        },
+        "ApexComponent__SitePoweredBy": {
+            "serverRevisionCounter": 36,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexComponent",
+            "isNameObsolete": false
+        },
+        "ApexComponent__SiteHeader": {
+            "serverRevisionCounter": 38,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexComponent",
+            "isNameObsolete": false
+        },
+        "ApexComponent__SiteFooter": {
+            "serverRevisionCounter": 40,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexComponent",
+            "isNameObsolete": false
+        },
+        "ApexComponent__SiteLogin": {
+            "serverRevisionCounter": 42,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexComponent",
+            "isNameObsolete": false
+        },
+        "Network__kashikaStore": {
+            "serverRevisionCounter": 124,
+            "lastRetrievedFromServer": null,
+            "memberType": "Network",
+            "isNameObsolete": false
+        },
+        "CustomSite__kashikaStore": {
+            "serverRevisionCounter": 236,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomSite",
+            "isNameObsolete": false
+        },
+        "DigitalExperienceConfig__kashikaStore1": {
+            "serverRevisionCounter": 235,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperienceConfig",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Default_Navigation": {
+            "serverRevisionCounter": 248,
+            "lastRetrievedFromServer": null,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Default_User_Profile_Menu": {
+            "serverRevisionCounter": 241,
+            "lastRetrievedFromServer": null,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Default_My_Account_Menu": {
+            "serverRevisionCounter": 246,
+            "lastRetrievedFromServer": null,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "CustomNotificationType__sfdc_Checkout_Order_Summary_Notification_Type": {
+            "serverRevisionCounter": 367,
+            "lastRetrievedFromServer": 367,
+            "memberType": "CustomNotificationType",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__billingAddressSelector": {
+            "serverRevisionCounter": 329,
+            "lastRetrievedFromServer": 329,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__cardPaymentMethod": {
+            "serverRevisionCounter": 333,
+            "lastRetrievedFromServer": 333,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__navigationButtons": {
+            "serverRevisionCounter": 339,
+            "lastRetrievedFromServer": 339,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__paymentMethod": {
+            "serverRevisionCounter": 343,
+            "lastRetrievedFromServer": 343,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigationButtons/navigationButtons.js": {
+            "serverRevisionCounter": 341,
+            "lastRetrievedFromServer": 341,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigationButtons/navigationButtons.js-meta.xml": {
+            "serverRevisionCounter": 340,
+            "lastRetrievedFromServer": 340,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigationButtons/navigationButtons.html": {
+            "serverRevisionCounter": 342,
+            "lastRetrievedFromServer": 342,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__paymentMethod/paymentMethod.js": {
+            "serverRevisionCounter": 344,
+            "lastRetrievedFromServer": 344,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__paymentMethod/paymentMethod.css": {
+            "serverRevisionCounter": 345,
+            "lastRetrievedFromServer": 345,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__paymentMethod/paymentMethod.js-meta.xml": {
+            "serverRevisionCounter": 346,
+            "lastRetrievedFromServer": 346,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__paymentMethod/constants.js": {
+            "serverRevisionCounter": 347,
+            "lastRetrievedFromServer": 347,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__paymentMethod/paymentMethod.html": {
+            "serverRevisionCounter": 348,
+            "lastRetrievedFromServer": 348,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__billingAddressSelector/billingAddressSelector.js": {
+            "serverRevisionCounter": 330,
+            "lastRetrievedFromServer": 330,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__billingAddressSelector/billingAddressSelector.js-meta.xml": {
+            "serverRevisionCounter": 331,
+            "lastRetrievedFromServer": 331,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__billingAddressSelector/billingAddressSelector.html": {
+            "serverRevisionCounter": 332,
+            "lastRetrievedFromServer": 332,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cardPaymentMethod/cardPaymentMethod.css": {
+            "serverRevisionCounter": 334,
+            "lastRetrievedFromServer": 334,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cardPaymentMethod/cardPaymentMethod.js": {
+            "serverRevisionCounter": 335,
+            "lastRetrievedFromServer": 335,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cardPaymentMethod/cardPaymentMethod.html": {
+            "serverRevisionCounter": 336,
+            "lastRetrievedFromServer": 336,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cardPaymentMethod/constants.js": {
+            "serverRevisionCounter": 337,
+            "lastRetrievedFromServer": 337,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cardPaymentMethod/cardPaymentMethod.js-meta.xml": {
+            "serverRevisionCounter": 338,
+            "lastRetrievedFromServer": 338,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "NamedCredential__Salesforce": {
+            "serverRevisionCounter": 349,
+            "lastRetrievedFromServer": 349,
+            "memberType": "NamedCredential",
+            "isNameObsolete": false
+        },
+        "DigitalExperienceBundle__site/kashikaStore1": {
+            "serverRevisionCounter": 119,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperienceBundle",
+            "isNameObsolete": false
+        },
+        "RemoteSiteSetting__Heroku_test_for_B2B_lightning": {
+            "serverRevisionCounter": 366,
+            "lastRetrievedFromServer": 366,
+            "memberType": "RemoteSiteSetting",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__languageSettings/languages": {
+            "serverRevisionCounter": 121,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__mobilePublisherConfig/mobilePublisherConfig": {
+            "serverRevisionCounter": 123,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/checkPasswordResetEmail": {
+            "serverRevisionCounter": 220,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/My_Profile": {
+            "serverRevisionCounter": 221,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/myProfile": {
+            "serverRevisionCounter": 222,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Address_List": {
+            "serverRevisionCounter": 223,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/error": {
+            "serverRevisionCounter": 216,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Forgot_Password": {
+            "serverRevisionCounter": 217,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/forgotPassword": {
+            "serverRevisionCounter": 218,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Check_Password": {
+            "serverRevisionCounter": 219,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/paymentProcessing": {
+            "serverRevisionCounter": 212,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Order": {
+            "serverRevisionCounter": 213,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/order": {
+            "serverRevisionCounter": 214,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Error": {
+            "serverRevisionCounter": 215,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Current_Checkout": {
+            "serverRevisionCounter": 208,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/checkout": {
+            "serverRevisionCounter": 209,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__themeLayout/checkoutLayout": {
+            "serverRevisionCounter": 210,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Payment_Processing": {
+            "serverRevisionCounter": 211,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Order_Lookup": {
+            "serverRevisionCounter": 204,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/orderLookup": {
+            "serverRevisionCounter": 205,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Current_Cart": {
+            "serverRevisionCounter": 206,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/cart": {
+            "serverRevisionCounter": 207,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/register": {
+            "serverRevisionCounter": 200,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__themeLayout/externalLayout": {
+            "serverRevisionCounter": 201,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Login": {
+            "serverRevisionCounter": 202,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/login": {
+            "serverRevisionCounter": 203,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__brandingSet/B2B_Commerce": {
+            "serverRevisionCounter": 234,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__themeLayout/myAccountLayout": {
+            "serverRevisionCounter": 198,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Register": {
+            "serverRevisionCounter": 199,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Order_Summary": {
+            "serverRevisionCounter": 194,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Wishlist": {
+            "serverRevisionCounter": 232,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/Wishlist": {
+            "serverRevisionCounter": 233,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/orderSummary": {
+            "serverRevisionCounter": 195,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/OrderSummaryList": {
+            "serverRevisionCounter": 196,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/orderSummaryList": {
+            "serverRevisionCounter": 197,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Product_Detail": {
+            "serverRevisionCounter": 190,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/serviceNotAvailable": {
+            "serverRevisionCounter": 228,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__themeLayout/snaThemeLayout": {
+            "serverRevisionCounter": 229,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/product": {
+            "serverRevisionCounter": 191,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Category_Detail": {
+            "serverRevisionCounter": 192,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Too_Many_Requests": {
+            "serverRevisionCounter": 230,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/category": {
+            "serverRevisionCounter": 193,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/tooManyRequests": {
+            "serverRevisionCounter": 231,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/Address_List": {
+            "serverRevisionCounter": 224,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/home": {
+            "serverRevisionCounter": 186,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__themeLayout/commerceLayout": {
+            "serverRevisionCounter": 187,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Address_Form": {
+            "serverRevisionCounter": 225,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/Address_Form": {
+            "serverRevisionCounter": 226,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Search": {
+            "serverRevisionCounter": 188,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Service_Not_Available": {
+            "serverRevisionCounter": 227,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__view/search": {
+            "serverRevisionCounter": 189,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__site/kashikaStore1": {
+            "serverRevisionCounter": 182,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__appPage/mainAppPage": {
+            "serverRevisionCounter": 183,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__theme/B2B_Commerce": {
+            "serverRevisionCounter": 184,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/kashikaStore1.sfdc_cms__route/Home": {
+            "serverRevisionCounter": 185,
+            "lastRetrievedFromServer": null,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "Flow__Checkout_Main_Checkout": {
+            "serverRevisionCounter": 355,
+            "lastRetrievedFromServer": 355,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "Flow__Checkout_Main_with_Salesforce_Pricing_and_Promotions": {
+            "serverRevisionCounter": 356,
+            "lastRetrievedFromServer": 356,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "Flow__Checkout_Subflow_Calculate_Promotions": {
+            "serverRevisionCounter": 357,
+            "lastRetrievedFromServer": 357,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "Flow__Checkout_Subflow_Confirm_Price": {
+            "serverRevisionCounter": 358,
+            "lastRetrievedFromServer": 358,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "Flow__Checkout_Subflow_Error": {
+            "serverRevisionCounter": 359,
+            "lastRetrievedFromServer": 359,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "Flow__Process_CommerceDiagnosticEvents": {
+            "serverRevisionCounter": 360,
+            "lastRetrievedFromServer": 360,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "Flow__sfdc_Checkout_Notify_On_Order_Summary_Created_Event": {
+            "serverRevisionCounter": 361,
+            "lastRetrievedFromServer": 361,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "Flow__sfdc_Checkout_Order_Summary_Notification_Flow": {
+            "serverRevisionCounter": 362,
+            "lastRetrievedFromServer": 362,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "Audience__Default": {
+            "serverRevisionCounter": 115,
+            "lastRetrievedFromServer": null,
+            "memberType": "Audience",
+            "isNameObsolete": false
+        },
+        "AppMenu__AppSwitcher": {
+            "serverRevisionCounter": 116,
+            "lastRetrievedFromServer": null,
+            "memberType": "AppMenu",
+            "isNameObsolete": false
+        },
+        "Workflow__OrderSummary": {
+            "serverRevisionCounter": 363,
+            "lastRetrievedFromServer": 363,
+            "memberType": "Workflow",
+            "isNameObsolete": false
+        }
+    }
+}
